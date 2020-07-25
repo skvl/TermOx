@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['range_324',['Range',['../structcppurses_1_1Range.html',1,'cppurses']]],
+  ['ratio_325',['ratio',['../classcppurses_1_1detail_1_1Slider__logic.html#aaf36d4d2dcfe319ea8133360c5c21a14',1,'cppurses::detail::Slider_logic']]],
+  ['ratio_5fchanged_326',['ratio_changed',['../classcppurses_1_1detail_1_1Slider__logic.html#a72af0de0f21a139b9ce52602ff477ba8',1,'cppurses::detail::Slider_logic::ratio_changed()'],['../classcppurses_1_1Vertical__slider.html#af89640d69bfb623e12bde217c60d78ed',1,'cppurses::Vertical_slider::ratio_changed()']]],
+  ['raw_5fmode_327',['raw_mode',['../classcppurses_1_1Terminal.html#a9ab1d0501e6dcd7c4f5aa9cb4fdac88c',1,'cppurses::Terminal']]],
+  ['receiver_328',['receiver',['../classcppurses_1_1Event.html#ac3dc1e33c32cc2421e5249314cf24861',1,'cppurses::Event']]],
+  ['red_329',['red',['../classcppurses_1_1True__color.html#a6d22c2b76634cde16fccb87f038fbd77',1,'cppurses::True_color']]],
+  ['register_5fwidget_330',['register_widget',['../classcppurses_1_1Animation__engine.html#aafe44e29a253d204c7d78d9e57eba180',1,'cppurses::Animation_engine::register_widget(Widget &amp;w, Period_t period)'],['../classcppurses_1_1Animation__engine.html#a1511fe3b87c32994f32b3f0e6d1a981e',1,'cppurses::Animation_engine::register_widget(Widget &amp;w, std::function&lt; Period_t()&gt; const &amp;period_func)'],['../classcppurses_1_1detail_1_1Timer__event__loop.html#ab1c86f1237a6d4927044b49972546b09',1,'cppurses::detail::Timer_event_loop::register_widget()']]],
+  ['release_331',['Release',['../structcppurses_1_1Mouse_1_1Release.html',1,'cppurses::Mouse']]],
+  ['remove_332',['remove',['../classcppurses_1_1Widget_1_1Children.html#ab67d3d9c296880baf5337dfd97fcf78f',1,'cppurses::Widget::Children::remove(Widget const *child) -&gt; std::unique_ptr&lt; Widget &gt;'],['../classcppurses_1_1Widget_1_1Children.html#a1d101f393bf542bf491c4487637723f8',1,'cppurses::Widget::Children::remove(std::size_t index) -&gt; std::unique_ptr&lt; Widget &gt;']]],
+  ['remove_5fbackground_333',['remove_background',['../classcppurses_1_1Brush.html#a7df13cb900ab327e9b0fbe43c7843a68',1,'cppurses::Brush']]],
+  ['remove_5fevent_5ffilter_334',['remove_event_filter',['../classcppurses_1_1Widget.html#a3243b55f719b04c1bf8bb7bef60bf1ea',1,'cppurses::Widget']]],
+  ['remove_5fevents_5fof_335',['remove_events_of',['../classcppurses_1_1detail_1_1Event__queue.html#a9bf536b5b5c1bab909282885d5495967',1,'cppurses::detail::Event_queue']]],
+  ['remove_5fforeground_336',['remove_foreground',['../classcppurses_1_1Brush.html#a2abfa87974ca462784d0571f71fe2e22',1,'cppurses::Brush']]],
+  ['remove_5fitem_337',['remove_item',['../classcppurses_1_1Menu.html#a1d7b3b7f168574df5c4aedc3363db582',1,'cppurses::Menu']]],
+  ['remove_5foption_338',['remove_option',['../classcppurses_1_1Cycle__box.html#aebadaa5495102d16c832d0c178c7e252',1,'cppurses::Cycle_box']]],
+  ['remove_5fpage_339',['remove_page',['../classcppurses_1_1layout_1_1Stack.html#abff4811ee7f3d14ea08e644f1c6f5c3d',1,'cppurses::layout::Stack::remove_page()'],['../classcppurses_1_1Menu__stack.html#aae53d41194c423d9cd72c39a20529256',1,'cppurses::Menu_stack::remove_page()']]],
+  ['remove_5fshortcut_340',['remove_shortcut',['../classcppurses_1_1Shortcuts.html#a1038654726b3743a6b6e4c25ba1ec149',1,'cppurses::Shortcuts']]],
+  ['remove_5ftraits_341',['remove_traits',['../classcppurses_1_1Brush.html#ab3de102d9e955108f27db846f917d4f6',1,'cppurses::Brush::remove_traits()'],['../classcppurses_1_1Glyph__string.html#a5f11839df497527e58af1cad94c4d19f',1,'cppurses::Glyph_string::remove_traits()']]],
+  ['resize_342',['resize',['../classcppurses_1_1Glyph__matrix.html#a18a15523e648b100ff641095524786ca',1,'cppurses::Glyph_matrix']]],
+  ['resize_5fevent_343',['Resize_event',['../classcppurses_1_1Resize__event.html',1,'cppurses::Resize_event'],['../classcppurses_1_1layout_1_1Layout.html#a87568a277ae5267e1fc91ab9d4b7d6d8',1,'cppurses::layout::Layout::resize_event()'],['../classcppurses_1_1layout_1_1Selecting.html#aec3a09d895876290b935968975ebe90f',1,'cppurses::layout::Selecting::resize_event()'],['../classcppurses_1_1layout_1_1Stack.html#aa5a961e2d8bf1a7bfabdf1321b4b59f7',1,'cppurses::layout::Stack::resize_event()'],['../classcppurses_1_1Widget.html#a91ef1800290cb2efbc69e240a26f9976',1,'cppurses::Widget::resize_event()'],['../classcppurses_1_1detail_1_1Textbox__base.html#a701c77cd650747f1f794f3682cd32356',1,'cppurses::detail::Textbox_base::resize_event()'],['../classcppurses_1_1Graph.html#ab6d7cd81e4d362d62b53ddb476f16dde',1,'cppurses::Graph::resize_event()']]],
+  ['resize_5fevent_5ffilter_344',['resize_event_filter',['../classcppurses_1_1Widget.html#a352097cc545920d77b2293a54b0e0f04',1,'cppurses::Widget']]],
+  ['rgb_345',['RGB',['../structcppurses_1_1RGB.html',1,'cppurses']]],
+  ['row_5flength_346',['row_length',['../classcppurses_1_1Text__display.html#af0c7147ac7c01b74b8a59a8b58be4f77',1,'cppurses::Text_display']]],
+  ['run_347',['run',['../classcppurses_1_1Event__loop.html#a7114b99da0945ceead2742eb765b7b08',1,'cppurses::Event_loop::run()'],['../classcppurses_1_1System.html#a66d938a42217eff6e23d489c065f2390',1,'cppurses::System::run(Args &amp;&amp;... args) -&gt; int'],['../classcppurses_1_1System.html#aa1580addd5537262650d2ead4a9bde0f',1,'cppurses::System::run(Widget &amp;head) -&gt; int'],['../classcppurses_1_1System.html#a924e697bf10f09e5d220311187487111',1,'cppurses::System::run() -&gt; int']]],
+  ['run_5fasync_348',['run_async',['../classcppurses_1_1Event__loop.html#a7fc6ebe99e47b51b6f248ee9c5e0a6a4',1,'cppurses::Event_loop']]]
+];
