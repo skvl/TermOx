@@ -1,14 +1,12 @@
 var searchData=
 [
-  ['offset_910',['offset',['../classcppurses_1_1detail_1_1Screen__mask.html#ad4b665ed655dd99830487c420f5cd212',1,'cppurses::detail::Screen_mask']]],
-  ['operator_21_3d_911',['operator!=',['../classcppurses_1_1detail_1_1Event__queue_1_1View_1_1Move__iterator.html#a38d64e89b778332112263be62466877b',1,'cppurses::detail::Event_queue::View::Move_iterator']]],
-  ['operator_28_29_912',['operator()',['../classcppurses_1_1Glyph__matrix.html#acdb4cb62a329dec6e1ebae573c6d24f8',1,'cppurses::Glyph_matrix::operator()(std::size_t x, std::size_t y) -&gt; Glyph &amp;'],['../classcppurses_1_1Glyph__matrix.html#a427a406693a4a700cb97cbbbff436660',1,'cppurses::Glyph_matrix::operator()(std::size_t x, std::size_t y) const -&gt; Glyph const &amp;']]],
-  ['operator_2a_913',['operator*',['../classcppurses_1_1detail_1_1Event__queue_1_1View_1_1Move__iterator.html#a5e12d22b25d8b9b4b2b09ece18332e3a',1,'cppurses::detail::Event_queue::View::Move_iterator']]],
-  ['operator_2b_914',['operator+',['../classcppurses_1_1Glyph__string.html#a65d48f511c917cf80f05e714e3e91b8c',1,'cppurses::Glyph_string::operator+(Glyph const &amp;g) const -&gt; Glyph_string'],['../classcppurses_1_1Glyph__string.html#ae89c756811ade9b30aa03ab90cbc6f59',1,'cppurses::Glyph_string::operator+(Glyph_string const &amp;gs) const -&gt; Glyph_string']]],
-  ['operator_2b_2b_915',['operator++',['../classcppurses_1_1detail_1_1Event__queue_1_1View_1_1Move__iterator.html#a2b14a15513a7ac3af3ca64725d27be1e',1,'cppurses::detail::Event_queue::View::Move_iterator']]],
-  ['operator_2b_3d_916',['operator+=',['../classcppurses_1_1Glyph__string.html#afcd416b9c3de627fbbfb6ea537094030',1,'cppurses::Glyph_string']]],
-  ['operator_3d_3d_917',['operator==',['../classcppurses_1_1Brush.html#a6fbf82179b24001e1ef82d1ca74a01a5',1,'cppurses::Brush::operator==()'],['../classcppurses_1_1Event.html#aa43ba98b544e68707ddca413bd43fc08',1,'cppurses::Event::operator==()']]],
-  ['outer_5farea_918',['outer_area',['../classcppurses_1_1Widget.html#a15ea27ae31ddea0739639130f7f24062',1,'cppurses::Widget']]],
-  ['outer_5fheight_919',['outer_height',['../classcppurses_1_1Widget.html#a369f67a58c7e968571c40bc0e05866ae',1,'cppurses::Widget']]],
-  ['outer_5fwidth_920',['outer_width',['../classcppurses_1_1Widget.html#add7cb24f46014a4ae456c83cf8b62041',1,'cppurses::Widget']]]
+  ['offset_1090',['offset',['../classox_1_1detail_1_1Screen__mask.html#ab16716c25a4875a73c848188c3863396',1,'ox::detail::Screen_mask']]],
+  ['operator_28_29_1091',['operator()',['../classox_1_1dynamic_1_1Triangle.html#af317a4b7094eb9f6bc923d8fda5b9e3e',1,'ox::dynamic::Triangle::operator()()'],['../classox_1_1dynamic_1_1Sine.html#a2f07a1f02a182cf1708328826ee635a4',1,'ox::dynamic::Sine::operator()()'],['../classox_1_1dynamic_1_1Sawtooth__up.html#a601c7da01d687be552ef703f2602e239',1,'ox::dynamic::Sawtooth_up::operator()()'],['../classox_1_1dynamic_1_1Square.html#ad33ec0ce0654e0535f158ace45ca0c72',1,'ox::dynamic::Square::operator()()'],['../classox_1_1dynamic_1_1Random.html#aea60135ce747c71748ac881ebdfc8e48',1,'ox::dynamic::Random::operator()()'],['../classox_1_1Glyph__matrix.html#a11443a9b9e4049ddbfb5ea57a6430391',1,'ox::Glyph_matrix::operator()(std::size_t x, std::size_t y) -&gt; Glyph &amp;'],['../classox_1_1Glyph__matrix.html#ad5893a3069d8639d95272eb133d8615c',1,'ox::Glyph_matrix::operator()(std::size_t x, std::size_t y) const -&gt; Glyph']]],
+  ['operator_2b_1092',['operator+',['../classox_1_1Glyph__string.html#a770a46c54024bd6208f90834fd5000d2',1,'ox::Glyph_string::operator+(Glyph g) const -&gt; Glyph_string'],['../classox_1_1Glyph__string.html#a6632ae8698ce399c53ce1df55ce4c5a4',1,'ox::Glyph_string::operator+(Glyph_string const &amp;gs) const -&gt; Glyph_string']]],
+  ['operator_2b_3d_1093',['operator+=',['../classox_1_1Glyph__string.html#a3658ac6e672f8eb4ec823b8844b07cc5',1,'ox::Glyph_string']]],
+  ['operator_3d_1094',['operator=',['../classox_1_1Size__policy.html#ac1f97376e4529c4cdebfb1c74f2b09f4',1,'ox::Size_policy::operator=(Size_policy const &amp;x) -&gt; Size_policy &amp;'],['../classox_1_1Size__policy.html#a5e92b76beda9a2aea14ac68a54cb8bf5',1,'ox::Size_policy::operator=(Size_policy &amp;&amp;x) -&gt; Size_policy &amp;']]],
+  ['operator_3d_3d_1095',['operator==',['../classox_1_1Brush.html#acd685abf49ad64d22305bb6fe4565d26',1,'ox::Brush']]],
+  ['outer_5farea_1096',['outer_area',['../classox_1_1Widget.html#addee988f8f3b12392f45cd639deef0e7',1,'ox::Widget']]],
+  ['outer_5fheight_1097',['outer_height',['../classox_1_1Widget.html#a7c097b7aa1f0aca9bf0ec9ecfd587c8c',1,'ox::Widget']]],
+  ['outer_5fwidth_1098',['outer_width',['../classox_1_1Widget.html#aa2e5cab1b228768e47d458d317a3f62c',1,'ox::Widget']]]
 ];

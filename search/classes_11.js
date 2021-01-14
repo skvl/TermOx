@@ -1,16 +1,18 @@
 var searchData=
 [
-  ['terminal_685',['Terminal',['../classcppurses_1_1Terminal.html',1,'cppurses']]],
-  ['terminal_5ferror_686',['Terminal_error',['../structcppurses_1_1Terminal__error.html',1,'cppurses']]],
-  ['text_5fdisplay_687',['Text_display',['../classcppurses_1_1Text__display.html',1,'cppurses']]],
-  ['textbox_688',['Textbox',['../classcppurses_1_1Textbox.html',1,'cppurses']]],
-  ['textbox_5fbase_689',['Textbox_base',['../classcppurses_1_1detail_1_1Textbox__base.html',1,'cppurses::detail']]],
-  ['tile_690',['Tile',['../classcppurses_1_1Tile.html',1,'cppurses']]],
-  ['timer_5fevent_691',['Timer_event',['../classcppurses_1_1Timer__event.html',1,'cppurses']]],
-  ['timer_5fevent_5floop_692',['Timer_event_loop',['../classcppurses_1_1detail_1_1Timer__event__loop.html',1,'cppurses::detail']]],
-  ['titlebar_693',['Titlebar',['../classcppurses_1_1Titlebar.html',1,'cppurses']]],
-  ['toggle_5fbutton_694',['Toggle_button',['../classcppurses_1_1Toggle__button.html',1,'cppurses']]],
-  ['true_5fcolor_695',['True_color',['../classcppurses_1_1True__color.html',1,'cppurses']]],
-  ['true_5fcolor_5fdefinition_696',['True_color_definition',['../structcppurses_1_1True__color__definition.html',1,'cppurses']]],
-  ['tuple_697',['Tuple',['../classcppurses_1_1Tuple.html',1,'cppurses']]]
+  ['terminal_843',['Terminal',['../classox_1_1Terminal.html',1,'ox']]],
+  ['terminal_5ferror_844',['Terminal_error',['../structox_1_1Terminal__error.html',1,'ox']]],
+  ['text_5fdisplay_845',['Text_display',['../classox_1_1Text__display.html',1,'ox']]],
+  ['textbox_846',['Textbox',['../classox_1_1Textbox.html',1,'ox']]],
+  ['textbox_5fbase_847',['Textbox_base',['../classox_1_1detail_1_1Textbox__base.html',1,'ox::detail']]],
+  ['tile_848',['Tile',['../classox_1_1Tile.html',1,'ox']]],
+  ['timer_5fevent_849',['Timer_event',['../structox_1_1Timer__event.html',1,'ox']]],
+  ['timer_5fevent_5floop_850',['Timer_event_loop',['../classox_1_1detail_1_1Timer__event__loop.html',1,'ox::detail']]],
+  ['titlebar_851',['Titlebar',['../classox_1_1Titlebar.html',1,'ox']]],
+  ['toggle_5fbutton_852',['Toggle_button',['../classox_1_1Toggle__button.html',1,'ox']]],
+  ['transform_5fiterator_853',['Transform_iterator',['../classox_1_1Transform__iterator.html',1,'ox']]],
+  ['transform_5fview_854',['Transform_view',['../classox_1_1Transform__view.html',1,'ox']]],
+  ['triangle_855',['Triangle',['../classox_1_1dynamic_1_1Triangle.html',1,'ox::dynamic']]],
+  ['true_5fcolor_856',['True_color',['../classox_1_1True__color.html',1,'ox']]],
+  ['tuple_857',['Tuple',['../classox_1_1Tuple.html',1,'ox']]]
 ];

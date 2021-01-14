@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['imprint_1112',['imprint',['../classcppurses_1_1Brush.html#a9b29069f70e8582fd89042a9fe88fd49',1,'cppurses::Brush']]]
+  ['merge_1312',['merge',['../classox_1_1Brush.html#a998fb0e8dc10aa7e1b7f79ed010b2e98',1,'ox::Brush']]]
 ];

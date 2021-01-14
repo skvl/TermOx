@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['moved_1091',['moved',['../classcppurses_1_1Cursor__data.html#a8d7d4a5239f29540da267d593c31ed60',1,'cppurses::Cursor_data']]]
+  ['npos_1293',['npos',['../classox_1_1Glyph__string.html#a597a16cc700a58a5a3e9edde964f56e5',1,'ox::Glyph_string']]]
 ];

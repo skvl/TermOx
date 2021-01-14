@@ -1,14 +1,16 @@
 var searchData=
 [
-  ['uncheck_1042',['uncheck',['../classcppurses_1_1Checkbox.html#aeacead9d56286827a494f2b3a5dc3768',1,'cppurses::Checkbox']]],
-  ['underline_1043',['underline',['../classcppurses_1_1Line__edit.html#af007d3170147c2185b64f3c2b421a809',1,'cppurses::Line_edit']]],
-  ['uninitialize_1044',['uninitialize',['../classcppurses_1_1Terminal.html#afc1bdae6648a51e955e9911edf574050',1,'cppurses::Terminal']]],
-  ['unique_5fid_1045',['unique_id',['../classcppurses_1_1Widget.html#a8153d35efd660c32ac987d02d1edf891',1,'cppurses::Widget']]],
-  ['unregister_5fwidget_1046',['unregister_widget',['../classcppurses_1_1Animation__engine.html#afe0987c588e6b770b34d235dae6cb567',1,'cppurses::Animation_engine::unregister_widget()'],['../classcppurses_1_1detail_1_1Timer__event__loop.html#a5a5bfbade7c6c4d3d409fa9cf6a46c1e',1,'cppurses::detail::Timer_event_loop::unregister_widget()']]],
-  ['unselect_1047',['unselect',['../classcppurses_1_1Selectable.html#a00359653ed0c069d2df109cc453f6097',1,'cppurses::Selectable::unselect()'],['../classcppurses_1_1Selectable_3_01Widget__t_00_01void_00_01void_01_4.html#ae04bbdc77d7b6c9e48335ed81eecb801',1,'cppurses::Selectable&lt; Widget_t, void, void &gt;::unselect()']]],
-  ['unsuppress_5ftab_1048',['unsuppress_tab',['../classcppurses_1_1detail_1_1Focus.html#ab97495be88f5610a5e74caded95fec78',1,'cppurses::detail::Focus']]],
-  ['update_1049',['update',['../classcppurses_1_1Widget.html#a9ea2a1d33d07a2dfdc3f17007ece3996',1,'cppurses::Widget::update()'],['../classcppurses_1_1Text__display.html#ace2ddc9f15d0626a17977985546b59a8',1,'cppurses::Text_display::update()']]],
-  ['update_5fdisplay_1050',['update_display',['../classcppurses_1_1Text__display.html#a933005e7a4f6ff6ce36e6440ffa03bc5',1,'cppurses::Text_display']]],
-  ['update_5fgeometry_1051',['update_geometry',['../classcppurses_1_1layout_1_1Layout.html#a251a09e4f6344cc0ff47f09d926fac8d',1,'cppurses::layout::Layout::update_geometry()'],['../classcppurses_1_1layout_1_1detail_1_1Linear__layout.html#abed3d6eee0e9fa5dc85caa6e4d3c82e8',1,'cppurses::layout::detail::Linear_layout::update_geometry()'],['../classcppurses_1_1layout_1_1Stack.html#a5058c067a2a08b3846f7cc6c51ee14c6',1,'cppurses::layout::Stack::update_geometry()']]],
-  ['upper_1052',['upper',['../classcppurses_1_1Vertical__slider.html#a887464d904e4f28bc756de7c1d57d440',1,'cppurses::Vertical_slider']]]
+  ['uncheck_1242',['uncheck',['../classox_1_1Checkbox.html#a0a3fcff781ed38e982469f10f8549581',1,'ox::Checkbox']]],
+  ['underline_1243',['underline',['../classox_1_1Line__edit.html#a3ce11450664aa29fff7c1b1485c119b3',1,'ox::Line_edit']]],
+  ['uninitialize_1244',['uninitialize',['../classox_1_1Terminal.html#ab85863e2f7eef690dfd94648fc57f3c7',1,'ox::Terminal']]],
+  ['unique_5fid_1245',['unique_id',['../classox_1_1Widget.html#af4f1d1747f843ab2feac0a4aba587539',1,'ox::Widget']]],
+  ['unlock_1246',['unlock',['../classox_1_1Checkbox.html#ae42c5711c20e79b1481cd91d5393b460',1,'ox::Checkbox']]],
+  ['unregister_5fcolor_1247',['unregister_color',['../classox_1_1Dynamic__color__engine.html#af4d7bcf62dcdccf92a57a5158f9127a2',1,'ox::Dynamic_color_engine']]],
+  ['unregister_5fwidget_1248',['unregister_widget',['../classox_1_1Animation__engine.html#ae6b2fd929c214919a28cf47fc62854fc',1,'ox::Animation_engine::unregister_widget()'],['../classox_1_1detail_1_1Timer__event__loop.html#a4ce67bae067eabbee2a8e495ae7323e9',1,'ox::detail::Timer_event_loop::unregister_widget()']]],
+  ['unselect_1249',['unselect',['../classox_1_1Selectable.html#a5ff318e796450b4ef563cac7457cdf47',1,'ox::Selectable::unselect()'],['../classox_1_1Selectable_3_01Widget__t_00_01void_00_01void_01_4.html#a744c0c43f0ec6ea819347fb3c47d63be',1,'ox::Selectable&lt; Widget_t, void, void &gt;::unselect()']]],
+  ['unsuppress_5ftab_1250',['unsuppress_tab',['../classox_1_1detail_1_1Focus.html#a2362a6e14d9e0113af2936f026a4f0a5',1,'ox::detail::Focus']]],
+  ['update_1251',['update',['../classox_1_1Widget.html#aa47136a1e6ae9cda1ab044a1cd6485f1',1,'ox::Widget::update()'],['../classox_1_1Text__display.html#a213d2c145c12e5ea2ba4436a36c55d61',1,'ox::Text_display::update()']]],
+  ['update_5fdisplay_1252',['update_display',['../classox_1_1Text__display.html#a218ed53fdbca85e0b969cac5e963bfd0',1,'ox::Text_display']]],
+  ['update_5fgeometry_1253',['update_geometry',['../classox_1_1layout_1_1Layout.html#af4582a5f8b1b3335488b52b32d69d452',1,'ox::layout::Layout::update_geometry()'],['../classox_1_1layout_1_1detail_1_1Linear__layout.html#a94c8e6f9bbb9264ff6e281730321f399',1,'ox::layout::detail::Linear_layout::update_geometry()'],['../classox_1_1layout_1_1Stack.html#ad4aa9c1ea87971585ea3fed37bc4ff2c',1,'ox::layout::Stack::update_geometry()']]],
+  ['upper_1254',['upper',['../classox_1_1Vertical__slider.html#a7ecd32db3b5173d7e0acbf5d5ef3fd00',1,'ox::Vertical_slider']]]
 ];

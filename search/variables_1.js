@@ -1,11 +1,10 @@
 var searchData=
 [
-  ['checked_1071',['checked',['../classcppurses_1_1Checkbox.html#a4fe6dfc845b493827ab7494246dfeed2',1,'cppurses::Checkbox']]],
-  ['color_5fselected_1072',['color_selected',['../classcppurses_1_1Color__select.html#ae5661801a13b157d2849134a5e8d4644',1,'cppurses::Color_select']]],
-  ['contents_5fmodified_1073',['contents_modified',['../classcppurses_1_1Text__display.html#ab637f2ca2b71f02ea47152ba2eb83cc9',1,'cppurses::Text_display']]],
-  ['cursor_1074',['cursor',['../classcppurses_1_1Widget.html#aa12563c8f8f3d3e50bac85e0b37beaab',1,'cppurses::Widget']]],
-  ['cursor_5fmoved_5fdown_1075',['cursor_moved_down',['../classcppurses_1_1detail_1_1Textbox__base.html#a56c4282d4cc5f5f3f7d7e842eed89081',1,'cppurses::detail::Textbox_base']]],
-  ['cursor_5fmoved_5fleft_1076',['cursor_moved_left',['../classcppurses_1_1detail_1_1Textbox__base.html#aedece9ee2013b428c52847f634104d11',1,'cppurses::detail::Textbox_base']]],
-  ['cursor_5fmoved_5fright_1077',['cursor_moved_right',['../classcppurses_1_1detail_1_1Textbox__base.html#a6f198d4517b64a7e73e7a7a9ad6b4e4f',1,'cppurses::detail::Textbox_base']]],
-  ['cursor_5fmoved_5fup_1078',['cursor_moved_up',['../classcppurses_1_1detail_1_1Textbox__base.html#a239c2d59315a5a00281d0455f1275de3',1,'cppurses::detail::Textbox_base']]]
+  ['checked_1273',['checked',['../classox_1_1Checkbox.html#a7e4fc1aaeccb5c5b368770f9f35ff5ea',1,'ox::Checkbox']]],
+  ['contents_5fmodified_1274',['contents_modified',['../classox_1_1Text__display.html#a009ffae1ec34dfdc34c01e40ff5f3a85',1,'ox::Text_display']]],
+  ['cursor_1275',['cursor',['../classox_1_1Widget.html#a1dac67820adac2c6d8a4046f69fb85ad',1,'ox::Widget']]],
+  ['cursor_5fmoved_5fdown_1276',['cursor_moved_down',['../classox_1_1detail_1_1Textbox__base.html#a63e7cf956ecb75d34d38983ebc111840',1,'ox::detail::Textbox_base']]],
+  ['cursor_5fmoved_5fleft_1277',['cursor_moved_left',['../classox_1_1detail_1_1Textbox__base.html#a10e08c799e74b6392188457dd938a380',1,'ox::detail::Textbox_base']]],
+  ['cursor_5fmoved_5fright_1278',['cursor_moved_right',['../classox_1_1detail_1_1Textbox__base.html#af577c70086e219c917dbd88ebf472f17',1,'ox::detail::Textbox_base']]],
+  ['cursor_5fmoved_5fup_1279',['cursor_moved_up',['../classox_1_1detail_1_1Textbox__base.html#a6188d5eadcdeabc25e8c57cd385664fa',1,'ox::detail::Textbox_base']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['npos_1092',['npos',['../classcppurses_1_1Glyph__string.html#a77e10aebb436b0c68fd469d7656e105f',1,'cppurses::Glyph_string']]]
+  ['option_5fchanged_1294',['option_changed',['../classox_1_1Cycle__box.html#a062cb8ed2e44d7578217dfc8c82a2949',1,'ox::Cycle_box']]]
 ];

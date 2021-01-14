@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['scrolled_5fdown_1098',['scrolled_down',['../classcppurses_1_1Text__display.html#a428ff9bf5dbd21a51da13ee38913480e',1,'cppurses::Text_display']]],
-  ['scrolled_5fup_1099',['scrolled_up',['../classcppurses_1_1Text__display.html#a5f36b17021892b2e831ce8e8452b17de',1,'cppurses::Text_display']]],
-  ['segments_1100',['segments',['../classcppurses_1_1Border.html#a0261d61c383f09e152d22c5c85fe22a9',1,'cppurses::Border']]],
-  ['symbol_1101',['symbol',['../structcppurses_1_1Glyph.html#aa04d221be099f2c3f61e631b0a42a3e4',1,'cppurses::Glyph::symbol()'],['../structcppurses_1_1Key_1_1State.html#abbd22f625b78f12cc360a6f60e7747cd',1,'cppurses::Key::State::symbol()']]]
+  ['terminal_1304',['terminal',['../classox_1_1System.html#aeb6e14b98669d441d86d4b50d7a89cc3',1,'ox::System']]],
+  ['title_1305',['title',['../classox_1_1Menu.html#a058bba1b1b589c6509a9f158e8cfe2de',1,'ox::Menu']]],
+  ['toggled_1306',['toggled',['../classox_1_1Checkbox.html#ae87f2c41886c5da2b60baf1a5a5edc2d',1,'ox::Checkbox']]]
 ];

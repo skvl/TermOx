@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['device_5fid_1079',['device_id',['../structcppurses_1_1Mouse_1_1State.html#a8726f7ee0c84e2d6cda4121a92e33c1b',1,'cppurses::Mouse::State']]]
+  ['device_5fid_1280',['device_id',['../structox_1_1Mouse.html#a43e5d0686e3efbab93034915cd01c39b',1,'ox::Mouse']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['height_5fpolicy_1085',['height_policy',['../classcppurses_1_1Widget.html#a2e1670502c912138bedf3838123c07e5',1,'cppurses::Widget']]]
+  ['height_5fpolicy_1285',['height_policy',['../classox_1_1Widget.html#a904577884a103fbdc7343283a5605177',1,'ox::Widget']]]
 ];

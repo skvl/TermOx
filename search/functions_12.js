@@ -1,17 +1,18 @@
 var searchData=
 [
-  ['tab_5fpress_1028',['tab_press',['../classcppurses_1_1detail_1_1Focus.html#a26306e766d5f9e2e039ca07cca5c7731',1,'cppurses::detail::Focus']]],
-  ['text_5fdisplay_1029',['Text_display',['../classcppurses_1_1Text__display.html#a38fc85ca1c4bef8758d3983fc48783d3',1,'cppurses::Text_display']]],
-  ['textbox_1030',['Textbox',['../classcppurses_1_1Textbox.html#a80adc7935ec1d94db03d51a7a07eaa64',1,'cppurses::Textbox']]],
-  ['textbox_5fbase_1031',['Textbox_base',['../classcppurses_1_1detail_1_1Textbox__base.html#acdb1dfa8b062c42dc5050fa035937ef0',1,'cppurses::detail::Textbox_base']]],
-  ['timer_5fevent_1032',['timer_event',['../classcppurses_1_1Widget.html#a1ab02adc10b9b5ffe96d1cb482b882ad',1,'cppurses::Widget::timer_event()'],['../classcppurses_1_1Spinner.html#a9467ddb345949afe5c850822b7bbf40d',1,'cppurses::Spinner::timer_event()']]],
-  ['timer_5fevent_5ffilter_1033',['timer_event_filter',['../classcppurses_1_1Widget.html#a939800e550f4925e42d9d9f2d231dc10',1,'cppurses::Widget']]],
-  ['timer_5fevent_5floop_1034',['Timer_event_loop',['../classcppurses_1_1detail_1_1Timer__event__loop.html#a029b66ff627e153e4a9c47f71e85713c',1,'cppurses::detail::Timer_event_loop::Timer_event_loop(Period_t period)'],['../classcppurses_1_1detail_1_1Timer__event__loop.html#ae98a759dad7199efe5a0233c8e2c640d',1,'cppurses::detail::Timer_event_loop::Timer_event_loop(std::function&lt; Period_t()&gt; period_func)']]],
-  ['titlebar_1035',['Titlebar',['../classcppurses_1_1Titlebar.html#a6ccbd20fac7f22d54bb1cfc9d05e41bd',1,'cppurses::Titlebar']]],
-  ['toggle_1036',['toggle',['../classcppurses_1_1Cursor__data.html#af1a9023f1b7bf8545940cbab0e299ea5',1,'cppurses::Cursor_data::toggle()'],['../classcppurses_1_1Checkbox.html#a9c370412955348ec92c9e5082d7d4466',1,'cppurses::Checkbox::toggle()']]],
-  ['toggle_5fbutton_1037',['Toggle_button',['../classcppurses_1_1Toggle__button.html#aae96fa35300ab0b983d6b0e68d72972b',1,'cppurses::Toggle_button']]],
-  ['toggle_5fword_5fwrap_1038',['toggle_word_wrap',['../classcppurses_1_1Text__display.html#a04d3abf8918539af3a101fd746581dbc',1,'cppurses::Text_display']]],
-  ['top_5fleft_1039',['top_left',['../classcppurses_1_1Widget.html#aabc287dfc690eec08944e42d56e2c7cf',1,'cppurses::Widget']]],
-  ['top_5fline_1040',['top_line',['../classcppurses_1_1Text__display.html#ad8156c745edfa03ed2209f89d0e10690',1,'cppurses::Text_display']]],
-  ['type_1041',['type',['../classcppurses_1_1Event.html#ae313d2a723ad12c705d1516eed029971',1,'cppurses::Event']]]
+  ['tab_5fpress_1227',['tab_press',['../classox_1_1detail_1_1Focus.html#a5ca136abc55ec75fb0b06606bf2c5a6c',1,'ox::detail::Focus']]],
+  ['term_5fset_5fcolor_1228',['term_set_color',['../classox_1_1Terminal.html#a672eb7f3b6f9e4d0cab0269cf40afaf6',1,'ox::Terminal']]],
+  ['text_5fdisplay_1229',['Text_display',['../classox_1_1Text__display.html#ad8d0f08cda167253234b077208a0b553',1,'ox::Text_display']]],
+  ['textbox_1230',['Textbox',['../classox_1_1Textbox.html#a06f19ca50475bc076b47a44c6ca6e1d3',1,'ox::Textbox']]],
+  ['textbox_5fbase_1231',['Textbox_base',['../classox_1_1detail_1_1Textbox__base.html#acc93673176d21f47a4f70ebbd96ed05a',1,'ox::detail::Textbox_base']]],
+  ['timer_5fevent_1232',['timer_event',['../classox_1_1Widget.html#a44ec2bc4f4c964583234ea06f3f72289',1,'ox::Widget::timer_event()'],['../classox_1_1Banner.html#aec0f6a123e85004d4ec5e747dcda7b21',1,'ox::Banner::timer_event()'],['../classox_1_1Notify__light.html#a65de5edac356ed9ba5be79b874cfb8e4',1,'ox::Notify_light::timer_event()'],['../classox_1_1Spinner.html#a94960e2cf24fe129e65ee9e705bbe230',1,'ox::Spinner::timer_event()']]],
+  ['timer_5fevent_5ffilter_1233',['timer_event_filter',['../classox_1_1Widget.html#ae3f74d80059b84052daf6e1e2cde66e3',1,'ox::Widget']]],
+  ['titlebar_1234',['Titlebar',['../classox_1_1Titlebar.html#a9cd3f7f144ca52e8195eab823ebe5dd2',1,'ox::Titlebar']]],
+  ['toggle_1235',['toggle',['../classox_1_1Cursor.html#a8e7d87e2af485171ce60a27c5a997ac3',1,'ox::Cursor::toggle()'],['../classox_1_1Checkbox.html#a0c545cd9fcfe14a57b8736aa2c3136b5',1,'ox::Checkbox::toggle()'],['../classox_1_1Toggle__button.html#acc9f35f1ec40805ae0cf5893211ccc06',1,'ox::Toggle_button::toggle()']]],
+  ['toggle_5fbutton_1236',['Toggle_button',['../classox_1_1Toggle__button.html#a96f6f11feb43f89a71963eadaa550109',1,'ox::Toggle_button']]],
+  ['toggle_5fword_5fwrap_1237',['toggle_word_wrap',['../classox_1_1Text__display.html#a7f65ea237564192ae30fee08c2a02ca5',1,'ox::Text_display']]],
+  ['top_1238',['top',['../classox_1_1Priority__queue.html#a1ff01d0d6e9147c59a4c554db6e3d648',1,'ox::Priority_queue']]],
+  ['top_5fleft_1239',['top_left',['../classox_1_1Widget.html#a1f86fd95acc96a60e48b70a896394c4a',1,'ox::Widget']]],
+  ['top_5fline_1240',['top_line',['../classox_1_1Text__display.html#a1d9893ff0371508c4595f717fdf404b5',1,'ox::Text_display']]],
+  ['triangle_1241',['Triangle',['../classox_1_1dynamic_1_1Triangle.html#a186c4060cd70f2db1cc03affe9d1570b',1,'ox::dynamic::Triangle']]]
 ];

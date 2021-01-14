@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['global_1084',['global',['../structcppurses_1_1Mouse_1_1State.html#ad6b146da27463124d2ed06227e771ca2',1,'cppurses::Mouse::State']]]
+  ['global_1284',['global',['../structox_1_1Mouse.html#a6270bccfeb7289ccf74e517571e4dc1a',1,'ox::Mouse']]]
 ];

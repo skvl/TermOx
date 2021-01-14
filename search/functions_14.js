@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['value_1053',['value',['../classcppurses_1_1detail_1_1Slider__logic.html#a29810dc519dc2cd2c2181668c537efd8',1,'cppurses::detail::Slider_logic::value()'],['../classcppurses_1_1Vertical__slider.html#af72bd80bbbe61bab53ddc8e9301894bc',1,'cppurses::Vertical_slider::value()']]],
-  ['veil_5ftext_1054',['veil_text',['../classcppurses_1_1Line__edit.html#ae4a3d589f5f8e9eb53b90fde94df4798',1,'cppurses::Line_edit']]],
-  ['vertical_5fslider_1055',['Vertical_slider',['../classcppurses_1_1Vertical__slider.html#ae801d4e84beb30bd367b3d0f7b9502ee',1,'cppurses::Vertical_slider']]],
-  ['view_1056',['View',['../classcppurses_1_1detail_1_1Event__queue_1_1View.html#a8e8f75e2d0c238a482b167afaefe33ff',1,'cppurses::detail::Event_queue::View']]]
+  ['value_1255',['value',['../classox_1_1detail_1_1Slider__logic.html#a618ede2950539a42a4752514058541d6',1,'ox::detail::Slider_logic::value()'],['../classox_1_1Vertical__slider.html#afcdfbb8b31e53c050dd67c6ab0cd1c7b',1,'ox::Vertical_slider::value()']]],
+  ['veil_5ftext_1256',['veil_text',['../classox_1_1Line__edit.html#a897d55c79d5e09c7da2e4b6732ec7b99',1,'ox::Line_edit']]],
+  ['vertical_5fslider_1257',['Vertical_slider',['../classox_1_1Vertical__slider.html#a4a024e69bc9389771e0b687b4bbdc7da',1,'ox::Vertical_slider']]]
 ];

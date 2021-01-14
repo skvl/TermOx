@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['focus_5fpolicy_1083',['focus_policy',['../classcppurses_1_1Widget.html#a3a623142df85acbf4b29542a2c8eb1e3',1,'cppurses::Widget']]]
+  ['focus_5fpolicy_1283',['focus_policy',['../classox_1_1Widget.html#afeb8b3a3141a10999f31243f71ca4394',1,'ox::Widget']]]
 ];

@@ -1,11 +1,12 @@
 var searchData=
 [
-  ['w_5fstr_1057',['w_str',['../classcppurses_1_1Glyph__string.html#aab849e2504522a967ae31f1a0339382f',1,'cppurses::Glyph_string']]],
-  ['wait_1058',['wait',['../classcppurses_1_1Event__loop.html#a40720853b356235ab16f13de1d8dab04',1,'cppurses::Event_loop']]],
-  ['west_1059',['west',['../classcppurses_1_1detail_1_1Border__offset.html#a7077b43b433677e3c6f36012a51f7050',1,'cppurses::detail::Border_offset']]],
-  ['west_5fdisqualified_1060',['west_disqualified',['../classcppurses_1_1detail_1_1Border__offset.html#a864e761365d338e8011456389bdaa455',1,'cppurses::detail::Border_offset']]],
-  ['west_5fenabled_1061',['west_enabled',['../classcppurses_1_1detail_1_1Border__offset.html#a7db088fa662cfe0413ed78dfc3bd57e0',1,'cppurses::detail::Border_offset']]],
-  ['widget_1062',['Widget',['../classcppurses_1_1Widget.html#a01564fa18e4c2bd55cb0df86f4789ff7',1,'cppurses::Widget']]],
-  ['width_1063',['width',['../classcppurses_1_1Glyph__matrix.html#a4c413a01bc465faafb49459af3027bc4',1,'cppurses::Glyph_matrix::width()'],['../classcppurses_1_1Terminal.html#a9ad7ef3e13537cd019ab94002ea09c5b',1,'cppurses::Terminal::width()'],['../classcppurses_1_1Widget.html#a588a447aa5e6f0686c0772732ec9fcb1',1,'cppurses::Widget::width()']]],
-  ['word_5fwrap_5fenabled_1064',['word_wrap_enabled',['../classcppurses_1_1Text__display.html#a45227b51e11fcbe6a51353d8b4f93e40',1,'cppurses::Text_display']]]
+  ['w_5fstr_1258',['w_str',['../classox_1_1Glyph__string.html#a0ecde8fa368f822e1a481def02db3fef',1,'ox::Glyph_string']]],
+  ['wait_1259',['wait',['../classox_1_1Event__loop.html#aa6508d05586d11680589bd1a9a817d96',1,'ox::Event_loop']]],
+  ['west_1260',['west',['../classox_1_1detail_1_1Border__offset.html#ab98c307a749b8ac41a30f53605a39471',1,'ox::detail::Border_offset']]],
+  ['west_5fdisqualified_1261',['west_disqualified',['../classox_1_1detail_1_1Border__offset.html#a784da8fc5ddeb9e67a414713fb31859a',1,'ox::detail::Border_offset']]],
+  ['west_5fenabled_1262',['west_enabled',['../classox_1_1detail_1_1Border__offset.html#a753a101c5791c77feaaabf25d62b21e6',1,'ox::detail::Border_offset']]],
+  ['widget_1263',['Widget',['../classox_1_1Widget.html#a106a6f31646466cd90031228a530cf08',1,'ox::Widget']]],
+  ['width_1264',['width',['../classox_1_1Glyph__matrix.html#ad01dc9a8a43b50780a18229ef1462ce6',1,'ox::Glyph_matrix::width()'],['../classox_1_1Terminal.html#aa5d2f19a710e32ee2a8e3c69392ffee9',1,'ox::Terminal::width()'],['../classox_1_1Widget.html#a9487020c7b139d87536bb9375596a758',1,'ox::Widget::width()']]],
+  ['word_5fwrap_5fenabled_1265',['word_wrap_enabled',['../classox_1_1Text__display.html#a7b26e27ca6bdb3ec71692a555378a8f8',1,'ox::Text_display']]],
+  ['wrapped_1266',['wrapped',['../classox_1_1Accordion.html#ae0ded31225e67b50fefd7f9d45203287',1,'ox::Accordion']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['y_1066',['y',['../classcppurses_1_1Cursor__data.html#a33f33831a026ae38c9886c00abfd0b83',1,'cppurses::Cursor_data::y()'],['../classcppurses_1_1Widget.html#a53437de75c7ea8b330614d9ab6092855',1,'cppurses::Widget::y()']]]
+  ['y_1268',['y',['../classox_1_1Cursor.html#ab6799ff6209299dbc29f8065a2dfe29d',1,'ox::Cursor::y()'],['../classox_1_1Widget.html#ae5a7e6e5903866f85d373ce83e4f0c58',1,'ox::Widget::y()']]]
 ];

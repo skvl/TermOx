@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['ratio_5fchanged_1097',['ratio_changed',['../classcppurses_1_1detail_1_1Slider__logic.html#a72af0de0f21a139b9ce52602ff477ba8',1,'cppurses::detail::Slider_logic::ratio_changed()'],['../classcppurses_1_1Vertical__slider.html#af89640d69bfb623e12bde217c60d78ed',1,'cppurses::Vertical_slider::ratio_changed()']]]
+  ['scrolled_5fdown_1299',['scrolled_down',['../classox_1_1Text__display.html#a2d796cd8e902bb4e221f814837fe3926',1,'ox::Text_display']]],
+  ['scrolled_5fto_1300',['scrolled_to',['../classox_1_1Text__display.html#ae34566531c15e6ff81087f4d29f60707',1,'ox::Text_display']]],
+  ['scrolled_5fup_1301',['scrolled_up',['../classox_1_1Text__display.html#ab4d1dfa354ba35d08ab9fcda088b5058',1,'ox::Text_display']]],
+  ['segments_1302',['segments',['../classox_1_1Border.html#a0cd59c938d26672c087f454bfa95f7d8',1,'ox::Border']]],
+  ['symbol_1303',['symbol',['../structox_1_1Glyph.html#adb98033bc44c73415b70cacd17b98d99',1,'ox::Glyph']]]
 ];
